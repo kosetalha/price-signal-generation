@@ -1,0 +1,18 @@
+# TRB/USDT Spot-Perpetual Price Signal Detection System
+# Python Package Dependencies
+
+# Data manipulation and analysis
+pandas>=1.3.0
+
+# Numerical computations
+numpy>=1.21.0
+
+# Plotting and visualization
+matplotlib>=3.4.0
+
+# Statistical visualization
+seaborn>=0.11.0
+
+# Optional: For better performance with large datasets
+# openpyxl>=3.0.0  # Excel file support (if needed)
+# xlrd>=2.0.0      # Excel file reading (if needed) 
